@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there
 
-<!--
-**EnderiteFox/EnderiteFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20 years old computer science student, currently on my third year of bachelor's degree at University of Franche-Comté (soon to be renamed University Louis et Marie Pasteur)  
+I create games with Godot and Minecraft plugins on my free time  
+Most of my university projects are public on my profile  
+I can speak French and English  
 
-Here are some ideas to get you started:
+# Languages I use the most:
+- Java
+- C/C++
+- GDScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages I know but use less often:
+- Python
+- JavaScript
+- Ruby
