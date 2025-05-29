@@ -13,5 +13,4 @@ I can speak French and English
 # Languages I know but use less often:
 - Python
 - JavaScript
-- HTML/CSS
 - PHP
