@@ -1,9 +1,9 @@
 ## Hello there! >:D
 
-I'm a 20 years old computer science student, currently on my third year of bachelor's degree at University of Franche-Comté (recently renamed to University Marie et Louis Pasteur)  
+I'm a 21 years old computer science student, currently on my third year of bachelor's degree at University Marie et Louis Pasteur  
 I create games with Godot and Minecraft plugins on my free time  
 Most of my university projects are public on my profile  
-I can speak French and English  
+I speak French and English  
 
 # Languages I use the most:
 - Java
