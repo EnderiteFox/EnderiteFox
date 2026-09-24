@@ -1,6 +1,6 @@
 ## Hello there! >:D
 
-I'm a 21 years old computer science student, currently on my first year of Masters degree at University Marie et Louis Pasteur  
+I'm a 21 years old computer science student, currently on my second year of Masters degree at University Marie et Louis Pasteur  
 I create games with Godot and Minecraft plugins on my free time  
 Most of my university projects are public on my profile  
 I speak French and English  
